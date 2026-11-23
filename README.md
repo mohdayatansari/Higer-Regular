@@ -4,10 +4,6 @@
 
 <img width="2160" height="1440" alt="P22HIGER" src="https://github.com/user-attachments/assets/e92ba373-5dff-4605-853a-60806695dec6" />
 
----
-
-<img width="1350" height="720" alt="Motion 3" src="https://github.com/user-attachments/assets/efc96a88-9960-4f4a-9073-206c726ff27e" />
-
 ## Quick Sections
 - [Installation Guide](./Install.md) — Desktop setup and `@font-face` web embedding
 - [Glyphs](./Glyphs.md) — Comprehensive visual specimen and animated glyph set
@@ -28,6 +24,8 @@ Visually, the typeface translates the raw geometry of high-altitude alpine terra
 - **High Optical Contrast:** Thick, authoritative vertical stems contrast sharply against delicate hairline crossbars and curves, mirroring blinding snowfields beside sheer glacial shadows.
 - **Chiselled Terminals & Serifs:** Crisp, angled serifs anchor each letterform to the baseline with structural certainty.
 - **Tall Proportions:** Extended ascenders give headlines an effortless, aristocratic presence suited for print spreads, fashion mastheads, and minimalist digital interfaces.
+
+<img width="1350" height="720" alt="Motion 3" src="https://github.com/user-attachments/assets/efc96a88-9960-4f4a-9073-206c726ff27e" />
 
 ---
 
