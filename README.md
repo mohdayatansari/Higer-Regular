@@ -4,6 +4,10 @@
 
 <img width="2160" height="1440" alt="P22HIGER" src="https://github.com/user-attachments/assets/e92ba373-5dff-4605-853a-60806695dec6" />
 
+---
+
+<img width="1350" height="720" alt="Motion 3" src="https://github.com/user-attachments/assets/efc96a88-9960-4f4a-9073-206c726ff27e" />
+
 ## Quick Sections
 - [Installation Guide](./Install.md) — Desktop setup and `@font-face` web embedding
 - [Glyphs](./Glyphs.md) — Comprehensive visual specimen and animated glyph set
