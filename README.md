@@ -2,7 +2,7 @@
 
 **Higer-Regular** is a cold Didone display serif designed for display headlines, luxury branding, and contemporary magazine layouts. Currently released in its foundational **Regular** weight, Higer pairs tall, commanding vertical proportions with high stroke contrast and razor-sharp, chiselled serifs.
 
-<img width="2160" height="1440" alt="P22HIGER" src="https://github.com/user-attachments/assets/e92ba373-5dff-4605-853a-60806695dec6" />
+<img width="2160" height="1440" alt="P22" src="https://github.com/user-attachments/assets/470017e5-45c2-42f6-a5c2-bf5bf3e9629c" />
 
 ## Quick Sections
 - [Installation Guide](./Install.md) — Desktop setup and `@font-face` web embedding
@@ -25,7 +25,7 @@ Visually, the typeface translates the raw geometry of high-altitude alpine terra
 - **Chiselled Terminals & Serifs:** Crisp, angled serifs anchor each letterform to the baseline with structural certainty.
 - **Tall Proportions:** Extended ascenders give headlines an effortless, aristocratic presence suited for print spreads, fashion mastheads, and minimalist digital interfaces.
 
-<img width="1350" height="720" alt="Motion 3 (1)" src="https://github.com/user-attachments/assets/fc2a6613-876b-4b2d-8277-4e4f20f73316" />
+<img width="1350" height="720" alt="Motion 3" src="https://github.com/user-attachments/assets/eb831fd7-b385-40bf-a003-bc9da8a425a8" />
 
 ---
 
